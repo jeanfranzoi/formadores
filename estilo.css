@@ -1,0 +1,21 @@
+@import url("estilo/header.css");
+
+:root   {
+            --cor-de-fundo: #d6b0b0;
+            --branco: #ffffff;
+        }
+
+body{
+        background-color: var(--cor-de-fundo);
+        align-items: center;
+    }
+
+
+h1 {
+    font-size: 16px;
+    align-items: center;
+    }
+    
+a:hover 	{
+       text-decoration: underline;
+    }
